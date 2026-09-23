@@ -18,6 +18,17 @@
 </div>
 
 ---
+## SCREENSHOTS
+
+<img width="520" height="70" alt="gun" src="https://github.com/user-attachments/assets/3a3e78e7-11ce-41b1-a6e1-e27c9c049b9f" />
+
+<img width="520" height="459" alt="gun2" src="https://github.com/user-attachments/assets/f8864e27-df6b-45ce-972a-a1b5d2994c81" />
+
+<img width="320" height="200" alt="gun3" src="https://github.com/user-attachments/assets/aac239d1-bc22-4a09-86aa-0257065140be" />
+
+<img width="520" height="459" alt="gun4" src="https://github.com/user-attachments/assets/f69a26a5-ae0e-497e-b0da-e440ca62e867" />
+
+---
 
 ## 📖 Sommaire
 
