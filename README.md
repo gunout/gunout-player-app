@@ -116,8 +116,8 @@
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-user/gunout-player.git
-cd gunout-player
+git clone https://github.com/gunout/gunout-player-app.git
+cd gunout-player-app
 ```
 
 ### 2. Installer libmpv
